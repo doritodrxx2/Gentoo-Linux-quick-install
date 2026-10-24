@@ -1,2 +1,6 @@
-# Gentoo-Linux-quick-install
-A Gentoo Linux installer focused on pre-built binary packages, with support for KDE Plasma, OpenRC and systemd, UEFI/BIOS, and ext4. Designed to simplify installation while minimizing compilation time.
+# Gentoo Quick Install
+
+1: chmod +x gentoo-quick-install.sh
+2: sudo bash ./gentoo-quick-install.sh
+3: Select your installation options
+4: Wait for the installation to finish and reboot your system.
